@@ -28,4 +28,4 @@ Este é um sistema simples de lista de tarefas em Java que permite aos usuários
 Este projeto é de código aberto e aceita contribuições. Sinta-se à vontade para enviar sugestões, relatar problemas ou criar pull requests.
 
 ## Autor
-Este sistema foi desenvolvido por Andressa Andrade, que está aprendendo por meio dos cursos da Rockseat.
+Este sistema foi desenvolvido por Andressa Andrade, que está aprendendo por meio dos cursos da Rocketseat.
